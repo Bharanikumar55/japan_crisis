@@ -1,0 +1,5 @@
+data/raw/*.csv
+# Python virtual environment
+venv/
+.venv/
+env/
